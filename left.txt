@@ -1,0 +1,16 @@
+edit button
+edit bio
+delete button
+display date and time and sort by time
+add more button
+make sure others can't edit your profile
+like and comment system
+b,i,file in answers
+post on profile page
+add blog section
+question links 
+profile links
+explore system
+chatting system
+notification system
+android app
